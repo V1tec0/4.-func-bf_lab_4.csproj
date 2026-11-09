@@ -1,0 +1,378 @@
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\brainfuck.exe.config
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\brainfuck.exe
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\brainfuck.pdb
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\nunit.framework.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\nunitlite.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\obj\Debug\func-brainfuck.csproj.AssemblyReference.cache
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\obj\Debug\func-brainfuck.csproj.CoreCompileInputs.cache
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\obj\Debug\func-bra.A098D5A1.Up2Date
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\obj\Debug\brainfuck.exe
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\obj\Debug\brainfuck.pdb
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\nunit.engine.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\nunit.engine.api.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\nunit.engine.core.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\testcentric.engine.metadata.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\NUnit3.TestAdapter.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.MSBuild.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Platform.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Buffers.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Collections.Immutable.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Memory.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Numerics.Vectors.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Reflection.Metadata.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.ApplicationInsights.pdb
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Platform.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Buffers.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Collections.Immutable.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Memory.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Numerics.Vectors.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Reflection.Metadata.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\obj\Debug\func-brainfuck.gentestingplatformentrypointinputcache.cache
+D:\Апатитский МАУ\3 курс 1 семестр\func-bf_lab_4.csproj\obj\Debug\func-brainfuck.genautoregisteredextensionsinputcache.cache
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\nunit.engine.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\nunit.engine.api.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\nunit.engine.core.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\testcentric.engine.metadata.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\NUnit3.TestAdapter.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\brainfuck.exe.config
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\brainfuck.exe
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\brainfuck.pdb
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.MSBuild.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Platform.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\nunit.framework.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\nunitlite.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Buffers.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Collections.Immutable.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Memory.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Numerics.Vectors.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Reflection.Metadata.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.ApplicationInsights.pdb
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Platform.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Buffers.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Collections.Immutable.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Memory.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Numerics.Vectors.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Reflection.Metadata.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\obj\Debug\func-brainfuck.csproj.AssemblyReference.cache
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\obj\Debug\func-brainfuck.gentestingplatformentrypointinputcache.cache
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\obj\Debug\func-brainfuck.genautoregisteredextensionsinputcache.cache
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\obj\Debug\func-brainfuck.csproj.CoreCompileInputs.cache
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\obj\Debug\func-bra.A098D5A1.Up2Date
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\obj\Debug\brainfuck.exe
+D:\Апатитский МАУ\3 курс 1 семестр\Программирование\func-bf_lab_4.csproj\obj\Debug\brainfuck.pdb
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\NUnit3.TestAdapter.pdb
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\nunit.engine.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\nunit.engine.api.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\nunit.engine.core.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\testcentric.engine.metadata.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\NUnit3.TestAdapter.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\brainfuck.exe.config
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\brainfuck.exe
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\brainfuck.pdb
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.ApplicationInsights.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.MSBuild.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Platform.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\nunit.framework.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\nunitlite.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Buffers.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Collections.Immutable.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Memory.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Numerics.Vectors.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Reflection.Metadata.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.ApplicationInsights.pdb
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.ApplicationInsights.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\Microsoft.Testing.Platform.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Buffers.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Collections.Immutable.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Memory.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Numerics.Vectors.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Reflection.Metadata.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\obj\Debug\func-brainfuck.csproj.AssemblyReference.cache
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\obj\Debug\func-brainfuck.gentestingplatformentrypointinputcache.cache
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\obj\Debug\func-brainfuck.genautoregisteredextensionsinputcache.cache
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\obj\Debug\func-brainfuck.csproj.CoreCompileInputs.cache
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\obj\Debug\func-bra.A098D5A1.Up2Date
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\obj\Debug\brainfuck.exe
+H:\Мой диск\Вышка в МАУ\3 курс\Программирование\4. func-bf_lab_4.csproj\obj\Debug\brainfuck.pdb
